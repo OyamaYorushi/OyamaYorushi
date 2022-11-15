@@ -3,7 +3,7 @@
 I'm Oyama Yorushi.
 - I'm a fullstack developer;
 - I'm 28 years old;
-- Tecnologies i use:
+- Technologies  i use:
   - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   - CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   - Python ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
